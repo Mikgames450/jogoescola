@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Jogos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Site de Jogos!</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#jogos">Jogos</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Início</h2>
+        <p>Descubra e jogue seus jogos favoritos aqui no nosso site!</p>
+    </section>
+
+    <section id="jogos">
+        <h2>Jogos</h2>
+        <div class="game">
+            <h3>Jogo 1: Adivinhação de Números</h3>
+          
